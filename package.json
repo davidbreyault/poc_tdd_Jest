@@ -32,6 +32,5 @@
     },
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
-}
-
+  }
 }
